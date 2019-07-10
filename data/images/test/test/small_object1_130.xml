@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>small_object1_130.jpg</filename>
+	<path>C:\Users\emb-ashwcho\obj_dec\models-master\research\object_detection\images\test\small_object1_130.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smallObject</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>40</ymin>
+			<xmax>762</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>
